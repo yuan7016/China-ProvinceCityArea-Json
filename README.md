@@ -1,7 +1,8 @@
 # China-ProvinceCityArea-Json
 中国最新省市区json数据
 
-
+## 数据结构
+```java
  {
       "children": [
         {
